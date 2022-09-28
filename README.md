@@ -1,1 +1,2 @@
-My first readme as a tech enthusiast
+My first readme as a tech enthusiast.
+Updated
