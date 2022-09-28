@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 My first readme
-Checking out the editing version
+I've got this!
 =======
 My first readme as a tech enthusiast.
 Updated
