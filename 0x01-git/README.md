@@ -1,1 +1,2 @@
-I think I'm improving. 
+My first readme
+Checking out the editing version
