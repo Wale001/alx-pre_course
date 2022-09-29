@@ -1,2 +1,2 @@
 My first readme
-Checking out the editing version
+Code must obey!
